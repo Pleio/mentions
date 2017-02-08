@@ -1,5 +1,5 @@
 {
-    "name": "coldtrick/mentions",
+    "name": "pleio/mentions",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
